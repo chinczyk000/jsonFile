@@ -1,5 +1,4 @@
-{
-  "pytania": [
+[
     {
       "tresc":"Najszyszy samochód na świecie",
       "odp_a":"Bugatti chiron super sport",
@@ -22,4 +21,4 @@
       "poprawna":2      
     }
   ]
-}
+
